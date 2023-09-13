@@ -1,0 +1,1 @@
+{"name":"Local: diagonalsort","url":"c:\\Users\\vivek\\OneDrive\\Desktop\\c++\\Competitive Programming\\diagonalsort.cpp","tests":[{"id":1685788333404,"input":"5 3\n4\n16\n15","output":"3\n6\n5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\vivek\\OneDrive\\Desktop\\c++\\Competitive Programming\\diagonalsort.cpp","group":"local","local":true}

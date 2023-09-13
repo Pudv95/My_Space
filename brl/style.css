@@ -1,0 +1,282 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo{
+    margin-top: 10px;
+    margin-left: 35px;
+}
+
+.logo img {
+    padding: 10px;
+    height: 36px;
+    width: 118px;
+}
+
+.buy {
+    margin-top: 23px;
+    width: 32px;
+    height: 32px;
+    display: flex;
+    
+}
+
+.buy p{
+    padding: 8px;
+    border: 1px solid black;
+    border-radius:5px 0px 0px 5px;
+}
+
+.buy img {
+    border: 1px solid black;
+    width: 32px;
+    height:30.5px;
+    border-radius: 0px 5px 5px 0px;
+}
+
+.sell {
+    margin-top: 23px;
+    width: 32px;
+    height: 32px;
+    display: flex;
+    
+    
+}
+
+.sell p{
+    padding: 8px;
+    border: 1px solid black;
+    border-radius:5px 0px 0px 5px;
+}
+
+.sell img {
+    border: 1px solid black;
+    width: 32px;
+    height: 30.5px;
+    border-radius:0px 5px 5px 0px;
+}
+
+.offer{
+    padding-left: 10px;
+    margin-top: 30px;
+}
+
+.wallet{
+    padding-left: 10px;
+    margin-top: 30px;
+}
+
+.hub{
+    width: 123.83;
+    height: 32px;
+    margin-top: 23px;
+    display: inline-flex;
+}
+
+.hub p{
+    padding: 6px;
+    border: 1px solid black;
+    border-radius:5px 0px 0px 5px;
+}
+.hub img {
+    border: 1px solid black;
+    width: 32px;
+    height: 30.5px;
+    border-radius:0px 5px 5px 0px;
+}
+
+.vendor{
+    margin-top: 30px;
+}
+
+.head-btn button {
+    border-radius: 5px;
+    margin-right: 20px;
+    margin-top: 22px;
+    color: white;
+    border: 0;
+    width: 69.14px;
+    height: 32px;
+    padding: 10px;
+    background-color: rgba(0, 115, 255, 0.748);
+
+}
+
+.right_img img{
+    margin-top: 17px;
+    margin-left: 0;
+    margin-right: 30px;
+    padding: 5px;
+    width: 32px;
+    height:32px;
+    border: 1px solid black;
+    border-radius:5px;
+}
+
+
+
+
+.main{
+    display: block;
+    margin-left:40px;
+    margin-right:0px;
+    margin-bottom:0px;
+}
+.big-container{
+    margin: 22px;
+    display: flex;
+}
+.container{
+    width: 528px;
+    height: 528px;
+    display: block;
+}
+
+.container h1{
+    margin-bottom: 10px;
+    width: 363.29px;
+    height: 185.66px;
+    font-size: 60px;
+}
+
+.container h3{
+    color: rgb(121, 33, 121);
+    margin-bottom: 60px ;
+    padding-top: 20px;
+    width: 528px;
+    height: 63.83px;
+    font-size: 30px;
+}
+
+.small-container{
+    display: flex;
+}
+.small-container img{
+    margin-right: 27px;
+    width: 65px;
+    height: 65px;
+}
+
+.sc-text{
+    height: 112px;
+    width: 528px;
+}
+
+.sc-text h4{
+    font-size:20px;
+    margin-bottom: 8px;
+}
+.sc-text p{
+    size: 14px;
+    word-spacing: 10px;
+    line-height: 20px;
+    
+}
+
+#btn{
+    border-radius: 5px;
+    margin-right: 20px;
+    margin-top: 22px;
+    color: white;
+    border: 0;
+    padding: 10px;
+    background-color: rgba(0, 115, 255, 0.748);
+}
+.main-img{
+    float: right;
+    margin-left: auto;
+    justify-content: flex-end;
+}
+
+.main-img img{
+    width: 632px;
+    height: 525px;
+}
+
+.footer{
+    margin: 50px;
+    display: flex;
+    background-image: linear-gradient(to right, purple, white);
+    
+}
+
+.foot{
+    
+    justify-content: center;
+    height: 291px;
+}
+
+.text{
+    left: 200px;
+    position: absolute;
+    margin-right: 500px;
+    width: 800px;
+}
+.footer h1{
+    
+    text-align: center;
+    margin-top: 40px;
+    margin-left: 200px;
+    font-size: 50px;
+    color: white;
+}
+
+.footer p{
+    position: absolute;
+    top: 840px;
+    left: 205px;
+    margin-top: 40px;
+    margin-left: 330px;
+    color: white;
+}
+
+.footer button{
+    position: absolute;
+    top: 900px;
+    left: 205px;
+    margin-top: 40px;
+    margin-left: 400px;
+    border-radius: 5px;
+    margin-right: 20px;
+    margin-top: 22px;
+    color: white;
+    border: 0;
+    padding: 10px;
+    background-color: rgba(0, 115, 255, 0.748);
+}
+
+.footer img{
+    width: 200px;
+    height: 200px;
+}
+
+#bagal{
+    height: 291px;
+    float: right;
+    z-index: 1;
+    position: absolute;
+    left: 1197px;
+    
+}
+
+#upar{
+    left: 990px;
+    width: 400px;
+    z-index: 1;
+    position: absolute;
+
+}
+
+#niche{
+    top:799px;
+    width: 450px;
+    left: 840px;
+    z-index:1;
+    position: absolute;
+}

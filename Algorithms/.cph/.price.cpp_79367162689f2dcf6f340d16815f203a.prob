@@ -1,0 +1,1 @@
+{"name":"Local: price","url":"c:\\Users\\vivek\\OneDrive\\Desktop\\c++\\Algorithms\\price.cpp","tests":[{"id":1683433691831,"input":"1 20000","output":"16800"},{"id":1683433745560,"input":"3 20000","output":"14893"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\vivek\\OneDrive\\Desktop\\c++\\Algorithms\\price.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: addinparenthesis","url":"c:\\Users\\vivek\\OneDrive\\Desktop\\c++\\Competitive Programming\\addinparenthesis.cpp","tests":[{"id":1685791285207,"input":"6\n()(())","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\vivek\\OneDrive\\Desktop\\c++\\Competitive Programming\\addinparenthesis.cpp","group":"local","local":true}
